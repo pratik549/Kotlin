@@ -3,7 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/0 Getting Started/0 Getting Started.iml" filepath="$PROJECT_DIR$/0 Getting Started/0 Getting Started.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1 Classes and Objects/1 Classes and Objects.iml" filepath="$PROJECT_DIR$/1 Classes and Objects/1 Classes and Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01 Classes and Objects/01 Classes and Objects.iml" filepath="$PROJECT_DIR$/01 Classes and Objects/01 Classes and Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 Expressions and Operations/02 Expressions and Operations.iml" filepath="$PROJECT_DIR$/02 Expressions and Operations/02 Expressions and Operations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 Structural Constructs/03 Structural Constructs.iml" filepath="$PROJECT_DIR$/03 Structural Constructs/03 Structural Constructs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04 Exceptions/04 Exceptions.iml" filepath="$PROJECT_DIR$/04 Exceptions/04 Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 Data Containers/05 Data Containers.iml" filepath="$PROJECT_DIR$/05 Data Containers/05 Data Containers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 True False Undecided and Nullability/06 True False Undecided and Nullability.iml" filepath="$PROJECT_DIR$/06 True False Undecided and Nullability/06 True False Undecided and Nullability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Handling Equality/07 Handling Equality.iml" filepath="$PROJECT_DIR$/07 Handling Equality/07 Handling Equality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08 Functional Programming/08 Functional Programming.iml" filepath="$PROJECT_DIR$/08 Functional Programming/08 Functional Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Type Safety - Generics/09 Type Safety - Generics.iml" filepath="$PROJECT_DIR$/09 Type Safety - Generics/09 Type Safety - Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/10 Adding Hints - Annotations/10 Adding Hints - Annotations.iml" filepath="$PROJECT_DIR$/10 Adding Hints - Annotations/10 Adding Hints - Annotations.iml" />
       <module fileurl="file://$PROJECT_DIR$/11 Using Java and Kotlin APIs/11 Using Java and Kotlin APIs.iml" filepath="$PROJECT_DIR$/11 Using Java and Kotlin APIs/11 Using Java and Kotlin APIs.iml" />
       <module fileurl="file://$PROJECT_DIR$/12 Collections API/12 Collections API.iml" filepath="$PROJECT_DIR$/12 Collections API/12 Collections API.iml" />
@@ -11,14 +19,6 @@
       <module fileurl="file://$PROJECT_DIR$/14 Working in Parallel - Multithreading/14 Working in Parallel - Multithreading.iml" filepath="$PROJECT_DIR$/14 Working in Parallel - Multithreading/14 Working in Parallel - Multithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/15 Using External Libraries/15 Using External Libraries.iml" filepath="$PROJECT_DIR$/15 Using External Libraries/15 Using External Libraries.iml" />
       <module fileurl="file://$PROJECT_DIR$/16 XML and JSON/16 XML and JSON.iml" filepath="$PROJECT_DIR$/16 XML and JSON/16 XML and JSON.iml" />
-      <module fileurl="file://$PROJECT_DIR$/2 Expressions and Operations/2 Expressions and Operations.iml" filepath="$PROJECT_DIR$/2 Expressions and Operations/2 Expressions and Operations.iml" />
-      <module fileurl="file://$PROJECT_DIR$/3 Structural Constructs/3 Structural Constructs.iml" filepath="$PROJECT_DIR$/3 Structural Constructs/3 Structural Constructs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/4 Exceptions/4 Exceptions.iml" filepath="$PROJECT_DIR$/4 Exceptions/4 Exceptions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/5 Data Containers/5 Data Containers.iml" filepath="$PROJECT_DIR$/5 Data Containers/5 Data Containers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/6 True False Undecided and Nullability/6 True False Undecided and Nullability.iml" filepath="$PROJECT_DIR$/6 True False Undecided and Nullability/6 True False Undecided and Nullability.iml" />
-      <module fileurl="file://$PROJECT_DIR$/7 Handling Equality/7 Handling Equality.iml" filepath="$PROJECT_DIR$/7 Handling Equality/7 Handling Equality.iml" />
-      <module fileurl="file://$PROJECT_DIR$/8 Functional Programming/8 Functional Programming.iml" filepath="$PROJECT_DIR$/8 Functional Programming/8 Functional Programming.iml" />
-      <module fileurl="file://$PROJECT_DIR$/9 Type Safety - Generics/9 Type Safety - Generics.iml" filepath="$PROJECT_DIR$/9 Type Safety - Generics/9 Type Safety - Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Kotlin.iml" filepath="$PROJECT_DIR$/.idea/Kotlin.iml" />
     </modules>
   </component>
